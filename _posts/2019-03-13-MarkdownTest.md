@@ -1,7 +1,7 @@
 ---
-layout: post
 title: GitHub - 마크다운을 이용한 블로그 포스팅
 comments: true
+categories: github
 tags: [jekyll, github, markdown]
 ---
 
