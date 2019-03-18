@@ -1,3 +1,9 @@
+---
+title: "GitHub 서버"
+date: 2019-03-19 00:38:28 -0400
+categories: github
+---
+
 #GitHub Server - SSH
 
 ##SSH 공개키 만들기
