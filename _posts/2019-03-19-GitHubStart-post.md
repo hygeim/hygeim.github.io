@@ -1,3 +1,9 @@
+---
+title: "GitHub 시작하기"
+date: 2019-03-19 00:38:28 -0400
+categories: github
+---
+
 #GitHub 시작하기
 
 ##기본 용어
